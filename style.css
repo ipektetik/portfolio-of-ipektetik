@@ -1,0 +1,138 @@
+<style>
+#container { 	
+	min-height: 200px;
+	min-height: auto;
+	}
+#logo {
+height:80px;
+line-height:80px ;
+text-align:center  ;
+font-family: courier;
+}
+#logo img {
+height:80px;
+}
+
+#mid-container {
+	height: auto;
+	min-height: 400px ;
+	}
+	
+.box {
+	height: 400px;
+	float: left;
+	}
+.box p {
+padding:20px;
+}
+	
+#footer {
+    height: 25px;
+	font-family: courier;
+	bottom:0px;
+	width:100%;
+	}
+
+#slider-image {
+height: 520px ;
+
+#slider{
+min-height:300px ;
+height:auto;
+}
+
+#index-slider-img {
+	height: 300px;
+	background-image:url("https://i.pinimg.com/564x/46/4c/c4/464cc475446880b8e1f872acc9330689.jpg");
+	background-color:#e5e5e5;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	}
+#slider-img {
+	height: 300px;
+	background-image:url("https://i.pinimg.com/564x/46/4c/c4/464cc475446880b8e1f872acc9330689.jpg");
+	background-color:#e5e5e5;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	}
+#about-slider-img {
+	height: 300px;
+	background-image:url("PORTFOLİO.jpg");
+	background-color:#e5e5e5;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	}
+	
+ #projects-slider-img {
+	height: 300px;
+	background-image:url("yeter.jpg");
+	background-color:#e5e5e5;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	}
+	
+	#contact-slider-img {
+	height: 300px;
+	background-image:url("https://i.pinimg.com/564x/46/4c/c4/464cc475446880b8e1f872acc9330689.jpg");
+	background-color:#e5e5e5;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	}
+.mymenu {
+	height: 80px;
+	text-align: center;
+	line-height: 80px;
+	color:red;
+	text-transform:uppercase;
+	font-weight:600;
+	}
+	
+.mymenu  a { 
+ 	color: black; 
+ 	}
+	
+.mymenu a:hover {
+	color: black;
+}
+.box {
+  height: auto; 
+  float: none; 
+  margin-bottom: 20px; 
+  border-bottom: 1px dotted #ccc;
+}
+.menu{
+height:100px;
+line-height:100px;
+text-align:center;
+float:left;
+border-left: solid 1px red;
+}
+
+.menu a{
+color:#333333;
+text-decoration:none;
+}
+
+.menu a:hover{
+color:red;
+text-decoration:overline;
+}
+
+.menu button {
+border:0;
+background:none;
+}
+
+.menu ul li {
+line-height:40px !important;
+height:40px;
+text-decoration:none !important;
+}
+
+
+</style>
